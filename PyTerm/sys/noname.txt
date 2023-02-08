@@ -1,0 +1,14 @@
+                                                  PyTerm Text Editor 1.0
+
+              PyTerm Text Editor (PTTE) is a Python program made for editing .txt files more simple
+
+To run PTTE you can do:
+    'write (file name)'         edits a file
+    'run ptx'                   runs PTTE and when doing ctrl+s will save the file
+
+To exit PTTE do:
+    'ctrl+q'                    exits PTTE
+
+Version: 1.0
+Written: 07/02/2023 15:32
+
